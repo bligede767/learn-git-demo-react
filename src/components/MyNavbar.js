@@ -2,7 +2,7 @@ import React from 'react'
 
 export const MyNavbar = () => {
   return (
-    <div>Navbar Change
+    <div>Navbar Change 2
     </div>
   )
 }
